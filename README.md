@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
 # 👋 Hi, I'm Daniel-Toledo
 
 💻 Engineering student  
